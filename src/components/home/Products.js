@@ -1,10 +1,10 @@
 import React from "react";
 import { useLoaderData } from "react-router-dom";
 import StarIcon from "@mui/icons-material/Star";
-import ApiIcon from "@mui/icons-material/Api";
-import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
-import ArrowCircleRightIcon from "@mui/icons-material/ArrowCircleRight";
-import FavoriteIcon from "@mui/icons-material/Favorite";
+// import ApiIcon from "@mui/icons-material/Api";
+// import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
+// import ArrowCircleRightIcon from "@mui/icons-material/ArrowCircleRight";
+// import FavoriteIcon from "@mui/icons-material/Favorite";
 import { useDispatch } from "react-redux";
 import { addToCart } from "../../redux/amazonSlice";
 
