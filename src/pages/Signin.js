@@ -133,7 +133,7 @@ const Signin = () => {
           </p>
         </div>
         <p className="text-xs text-gray-600">
-          © 1996-2023, ReactBd.com, Inc. or its affiliates
+          © 1996-2023, Marko Davidovic, Inc. or its affiliates
         </p>
       </div>
     </div>
