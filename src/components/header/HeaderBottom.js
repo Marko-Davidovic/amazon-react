@@ -32,7 +32,14 @@ const HeaderBottom = () => {
         <li className="hidden md:inline-flex headerHover">Customer Service</li>
         <li className="hidden md:inline-flex headerHover">Gift Cards</li>
         <li className="hidden md:inline-flex headerHover">Registry</li>
-        <li className="hidden md:inline-flex headerHover">Sell</li>
+        <li className="hidden md:inline-flex headerHover">Medical Care</li>
+        <li className="hidden md:inline-flex headerHover">Groceries</li>
+        <li className="hidden md:inline-flex headerHover">Best Sellers</li>
+        <li className="hidden md:inline-flex headerHover">Amazon Basics</li>
+        <li className="hidden md:inline-flex headerHover">Prime</li>
+        <li className="hidden md:inline-flex headerHover">Music</li>
+        <li className="hidden md:inline-flex headerHover">Books</li>
+        <li className="hidden md:inline-flex headerHover">Amazon Home</li>
       </ul>
       {/* ======================= List Items End here ========================== */}
       {/* ======================= SideBar Start here =========================== */}
