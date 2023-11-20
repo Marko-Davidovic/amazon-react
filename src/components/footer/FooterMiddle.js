@@ -1,7 +1,7 @@
 import React from "react";
 import { middleList } from "../../constants";
 import FooterMiddleList from "./FooterMiddleList";
-import { logo, bdFlag } from "../../assets/index";
+import { logo, usa } from "../../assets/index";
 
 const FooterMiddle = () => {
   return (
@@ -31,8 +31,8 @@ const FooterMiddle = () => {
             English
           </p>
           <div className="flex gap-1 items-center justify-center border border-gray-500 hover:border-amazon_yellow cursor-pointer duration-200 px-2 py-1">
-            <img className="w-6" src={bdFlag} alt="" />
-            <p>Bangladesh</p>
+            <img className="w-6" src={usa} alt="" />
+            <p>USA</p>
           </div>
         </div>
       </div>
